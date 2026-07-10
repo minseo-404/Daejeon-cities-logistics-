@@ -1,0 +1,2 @@
+select 연도
+from data_logistics_total.csv
